@@ -7,8 +7,8 @@
 # go-cqhttp 默认配置文件
 
 account: # 账号相关
-  uin: 2207414944 # QQ账号
-  password: 'zyq.20011204' # 密码为空时使用扫码登录
+  uin: 你的账号 # QQ账号
+  password: '你的密码' # 密码为空时使用扫码登录
   encrypt: false  # 是否开启密码加密
   status: 5      # 在线状态 请参考 https://github.com/Mrs4s/go-cqhttp/blob/dev/docs/config.md#在线状态
   relogin: # 重连设置
