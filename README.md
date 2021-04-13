@@ -3,7 +3,7 @@
 基于go-cqhttp版本v1.0.0 Beta2的qqbot，开源仅供学习，请勿用于违法途径。
 
 ## go-cqhttp配置文件【版本v1.0.0 Beta2】
-```json
+```yaml
 # go-cqhttp 默认配置文件
 
 account: # 账号相关
