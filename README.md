@@ -1,6 +1,28 @@
+<div align="center">
+
 # YuJianBot
 
-基于go-cqhttp版本v1.0.0 Beta2的qqbot，开源仅供学习，请勿用于违法途径。
+_✨ 基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp/actions) 以及 各路API的 python 原生实现 ✨_  
+
+
+</div>
+
+<p align="center">
+  <a href="https://a16n.github.io/2021/04/13/%E7%94%A8python%E5%86%99%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8Ego-cqhttp%E7%9A%84bot/">
+    <img src="https://img.shields.io/github/license/Mrs4s/go-cqhttp" alt="license">
+  </a>
+  <a href="https://a16n.github.io/2021/04/13/%E7%94%A8python%E5%86%99%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8Ego-cqhttp%E7%9A%84bot/">
+    <img src="https://github.com/Mrs4s/go-cqhttp/workflows/CI/badge.svg" alt="action">
+  </a>
+  <a href="https://a16n.github.io/2021/04/13/%E7%94%A8python%E5%86%99%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8Ego-cqhttp%E7%9A%84bot/">
+  <img src="https://goreportcard.com/badge/github.com/Mrs4s/go-cqhttp" alt="GoReportCard">
+  </a>
+  <br>
+  基于go-cqhttp版本v1.0.0 Beta2的qqbot，开源仅供学习，请勿用于违法途径。
+</p>
+
+
+
 
 ## go-cqhttp配置文件【版本v1.0.0 Beta2】
 ```yaml
